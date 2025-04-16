@@ -1,0 +1,6 @@
+F003,ST003,L001,10-12-2024,10:00,Student:hihi
+F005,ST003,L001,10-12-2024,10:00,Student:good
+F006,ST003,L001,10-12-2024,10:00 AM,Lecturer:hope you get well
+F008,ST004,L001,10-12-2024,11:00,Student:Good
+F009,ST004,L001,10-12-2024,11:00,Student:very good
+F010,ST004,L003,16-12-2024,13:00,Student:good consultation
